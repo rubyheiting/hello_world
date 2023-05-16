@@ -1,0 +1,6 @@
+baseUrl: 'http://example.org/'
+languageCode: 'nl-nl'
+title: My New Hugo Site
+
+
+assetDir: static
